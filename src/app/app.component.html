@@ -1,0 +1,33 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <a class="navbar-brand" [routerLink]="['/Home']"   >Navbar</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
+    aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link"  [routerLink]="['/Home']"  >Home
+          <span class="sr-only">(current)</span>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/Feature']" >Features</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link" [routerLink]="['/AddUser']" >Add User</a>
+      </li>
+      <li class="nav-item">
+        <a class="nav-link"  [routerLink]="['/Users']" >Users</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+<div class="container">
+  <div class="row">
+    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,17 @@
+<div class="clearfix">
+  &nbsp;
+  </div>
+<div class="row">
+  <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+    <div class="card">
+      <div class="card-header">
+        Users Information
+      </div>
+      <div class="card-body" *ngFor="let item of UserInforation">
+        <h5 class="card-title">{{ item.Title }}</h5>
+        <p class="card-text"> {{ item.Desc }}</p>
+        <button type="button" (click)="ondeleteAction(item.Id)" class="btn btn-primary">Delete</button>
+      </div>
+    </div>
+  </div>
+</div>
