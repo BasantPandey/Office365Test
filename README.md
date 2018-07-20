@@ -5,19 +5,20 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 ## Please check the follwoing YouTube Videos 
  
- The Series of videos as mentioned below. and 
+ The Series of videos as mentioned below. 
 
- <iframe width="560" height="315" src="https://www.youtube.com/embed/5bZ1LL1aCpA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
- 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tAppf0FDl9A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3OHpmPEwpHY" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Everything Is AWESOME](https://i.ytimg.com/vi_webp/5bZ1LL1aCpA/sddefault.webp)](https://www.youtube.com/embed/5bZ1LL1aCpA "Everything Is AWESOME")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/izT5Z_Ls0v0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Everything Is AWESOME](https://i.ytimg.com/vi_webp/tAppf0FDl9A/sddefault.webp)](https://www.youtube.com/embed/tAppf0FDl9A "Everything Is AWESOME")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SE1BB25e8rs" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Everything Is AWESOME](https://i.ytimg.com/vi_webp/3OHpmPEwpHY/sddefault.webp)](https://www.youtube.com/embed/3OHpmPEwpHY "Everything Is AWESOME")
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vI0RtTiG9OQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+[![Everything Is AWESOME](https://i.ytimg.com/vi_webp/izT5Z_Ls0v0/sddefault.webp)](https://www.youtube.com/embed/izT5Z_Ls0v0 "Everything Is AWESOME")
+
+[![Everything Is AWESOME](https://i.ytimg.com/vi_webp/SE1BB25e8rs/sddefault.webp)](https://www.youtube.com/embed/SE1BB25e8rs "Everything Is AWESOME")
+
+[![Everything Is AWESOME](https://i.ytimg.com/vi_webp/vI0RtTiG9OQ/sddefault.webp)](https://www.youtube.com/embed/vI0RtTiG9OQ "Everything Is AWESOME")
 
 ## Development server
 
